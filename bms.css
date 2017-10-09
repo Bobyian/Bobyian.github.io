@@ -8,3 +8,9 @@ font-family:Trebuchet MS;
 font-size:56px;
 text-align:center;
 }
+.gmodpic {
+ position:left; 
+}
+.bmspic {
+ position:right;
+}

@@ -9,8 +9,8 @@ font-size:56px;
 text-align:center;
 }
 .gmodpic {
- position:left; 
+ position:relative; left:800px; 
 }
 .bmspic {
- position:right;
+ position:relative; right:800px;
 }
